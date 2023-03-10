@@ -12,18 +12,18 @@ Project Value:
 
 Project Work Flow:
 
-1. Exploratory Analysis:
+1. Exploratory Analysis:****
 Top  Players in the League from the insight of data
 Development track of the rank 1 player in each years'draft over their career life
 International players
 Colleges...
 
-2. Unsuperivised learning 
+2. Unsuperivised learning ****
 Cluster players into different positions in terms of their draft stats. Use clustering algorithms to group similar players together based on their attributes and NBA statistics, identify player's types and position(Guards,Fowards,Centers).
 
-3. Supervised learning
+3. Supervised learning ****
 Predict if a player has potential to be a star player(who got high rank on dradt or selected to ALL-STAR game） or only a role palyer based on their statistics and attributes in early career.
 
-4. Data application deployment
+4. Data application deployment ****
 Deploy the clustering and prediction model through Streamlit. Users could input a play's weight, height, stats in early career and predict their tactic and commercial value in the future.
 
