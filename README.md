@@ -6,7 +6,6 @@ Dataset:
 Project Value:
 This project can provide valuable insights to stakeholders in the NBA, sports betting and fantasy sports communities, helping them to make more informed decisions and to gain a competitive edge. For example, teams could use the data toidentify undervalued players who may have been overlooked in the draft or  or to avoid selecting players who are unlikely to succeed in the NBA based on their college statistics.
 
-
 Project Work Flow:
 1. Exploratory Analysis:
 Top  Players in the League from the insight of data
