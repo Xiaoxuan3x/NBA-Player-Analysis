@@ -3,10 +3,15 @@ Dataset:
 1. NBA Draft Basketball Player Data 1989-2021: https://www.kaggle.com/datasets/mattop/nba-draft-basketball-player-data-19892021?select=nbaplayersdraft.csv
 2. NBA Players Biometric, biographic and basic box score features from 1996 to 2021 season_https://www.kaggle.com/datasets/justinas/nba-players-data
 
-Project Value:
+
+Project Value: 
+
 This project can provide valuable insights to stakeholders in the NBA, sports betting and fantasy sports communities, helping them to make more informed decisions and to gain a competitive edge. For example, teams could use the data toidentify undervalued players who may have been overlooked in the draft or  or to avoid selecting players who are unlikely to succeed in the NBA based on their college statistics.
 
+
+
 Project Work Flow:
+
 1. Exploratory Analysis:
 Top  Players in the League from the insight of data
 Development track of the rank 1 player in each years'draft over their career life
