@@ -13,9 +13,9 @@ Project Value:
 Project Work Flow:
 
 1. Exploratory Analysis:     
-Top  Players in the League from the insight of data
-Development track of the rank 1 player in each years'draft over their career life
-International players
+Top  Players in the League from the insight of data.
+Development track of the rank 1 player in each years'draft over their career life.
+International players.
 Colleges...
 
 2. Unsuperivised learning   
